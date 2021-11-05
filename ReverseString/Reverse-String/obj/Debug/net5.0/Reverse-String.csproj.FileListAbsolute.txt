@@ -1,0 +1,15 @@
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.csprojAssemblyReference.cache
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.AssemblyInfoInputs.cache
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.AssemblyInfo.cs
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.csproj.CoreCompileInputs.cache
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/Reverse-String.deps.json
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/Reverse-String.runtimeconfig.json
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/Reverse-String.runtimeconfig.dev.json
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/Reverse-String.dll
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/ref/Reverse-String.dll
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/bin/Debug/net5.0/Reverse-String.pdb
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.dll
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/ref/Reverse-String.dll
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.pdb
+/Users/Tomtimusprime/Desktop/Computer_Programming/C#-Data-Structs_and_Algorithms/ReverseString/Reverse-String/obj/Debug/net5.0/Reverse-String.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Tomtimusprime/.dotnet/store/|arch|/|tfm|",
+      "/Users/Tomtimusprime/.nuget/packages"
+    ]
+  }
+}
